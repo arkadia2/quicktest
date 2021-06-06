@@ -1,0 +1,76 @@
+
+lord_5.png
+size: 779,519
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jian
+  rotate: true
+  xy: 618, 190
+  size: 175, 152
+  orig: 175, 152
+  offset: 0, 0
+  index: -1
+jianjia
+  rotate: false
+  xy: 543, 285
+  size: 72, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: true
+  xy: 319, 2
+  size: 222, 297
+  orig: 222, 297
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 99
+  size: 306, 418
+  orig: 306, 418
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 310, 226
+  size: 231, 291
+  orig: 231, 291
+  offset: 0, 0
+  index: -1
+shoubi
+  rotate: true
+  xy: 2, 3
+  size: 94, 315
+  orig: 94, 315
+  offset: 0, 0
+  index: -1
+shoubi2
+  rotate: true
+  xy: 618, 48
+  size: 140, 150
+  orig: 140, 150
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 543, 367
+  size: 150, 186
+  orig: 150, 186
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 731, 493
+  size: 46, 10
+  orig: 46, 10
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 731, 505
+  size: 45, 12
+  orig: 45, 12
+  offset: 0, 0
+  index: -1

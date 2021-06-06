@@ -1,0 +1,1 @@
+E:\quick3.3\quick\player\win32\player3.exe -workdir E:\code\minimap -size 1280x720
